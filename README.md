@@ -10,9 +10,7 @@ A simple text editor built using draft-js with customized functionality in React
 - Similarly, typing `*` as the first string in a line and pressing space should correspond to “bold” format
 - `**` and space = red line
 - `***` and space = underline
-- ```and space = codeblock
-
-  ```
+- ```` `and space = codeblock
 
 ## Installation
 

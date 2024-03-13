@@ -22,7 +22,6 @@ A simple text editor built using draft-js with customized functionality in React
 
 1. Run the project: `npm start`
 2. Open your web browser and navigate to `http://localhost:3000`
-3. [Add any additional usage instructions here]
 
 ## Contributing
 
